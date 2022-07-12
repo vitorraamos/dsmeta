@@ -1,0 +1,34 @@
+header {
+    background: linear-gradient(180deg, #102347 0%, #181818 100%);
+    height: 220px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.dsmeta-logo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.dsmeta-logo-container img {
+    width: 235px;
+}
+
+.dsmeta-logo-container h1 {
+    background-color: rgba(75, 124, 225, 0.58);
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+.dsmeta-logo-container p {
+    font-size: 14px;
+    font-weight: 300;
+}
