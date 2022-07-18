@@ -31,7 +31,7 @@ Projeto realizado na Semana Sprint React da DevSuperior.
 
 ## Acesso ao projeto
 
-Você pode [acessar o projeto online](https://dsmetaconsult.netlify.app/) ou [acessar o código fonte do projeto](https://github.com/vitorraamos/dsmeta).
+Você pode <a href="https://dsmetaconsult.netlify.app/" target="_blank">acessar o projeto online</a> ou [acessar o código fonte do projeto](https://github.com/vitorraamos/dsmeta).
 
 ## Desenvolvedor
 
